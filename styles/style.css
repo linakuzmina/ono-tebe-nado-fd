@@ -73,7 +73,7 @@
 
 h1 {
     font-weight: 700;
-    font-style: bold;
+    font-weight: bold;
     font-size: 100px;
     text-transform: uppercase;
     line-height: 115%;
@@ -110,7 +110,7 @@ h1 {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    font-style: regular;
+    font-family: Regular;
     text-transform: uppercase;
     color: white;
     padding-left: 50px;
@@ -148,7 +148,7 @@ h1 {
 .lots__heading {
     text-transform: uppercase;
     font-weight: 700;
-    font-style: bold;
+    font-weight: bold;
     font-size: 40px;
     line-height: 100%;
     padding: 50px 40px 30px 40px;
@@ -227,7 +227,7 @@ article {
     font-weight: 400;
     font-size: 20px;
     line-height: 120%;
-    font-style: regular;
+    font-family: Regular;
 }
 
 .lots__look-more-link {
@@ -238,7 +238,7 @@ article {
     padding-left: 40px;
     padding-top: 30px;
     font-size: 20px;
-    font-style: regular;
+    font-family: Regular;
     line-height: 100%;
     font-weight: 400;
     text-decoration: underline;
@@ -282,13 +282,13 @@ article {
     font-weight: 700;
     text-transform: uppercase;
     font-size: 40px;
-    font-style: bold;
+    font-weight: bold;
     line-height: 100%;
 }
 
 .about__text {
     font-weight: 400;
-    font-style: regulare;
+    font-family: Regulare;
     font-size: 20px;
     line-height: 24px;
 }
@@ -326,7 +326,7 @@ article {
     text-align: center;
     text-underline-offset: 4px;
     font-weight: 400;
-    font-style: regulare;
+    font-family: Regulare;
     font-size: 18px;
     line-height: 120%;
 }
